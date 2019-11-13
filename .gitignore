@@ -1,0 +1,4 @@
+.DS_Store
+images/**
+google-landmarks-dataset/**
+src/.ipynb_checkpoints/**
